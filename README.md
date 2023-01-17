@@ -14,3 +14,5 @@ follow instructions in "music.py" program comments to set up the correct filepat
 ## run program
 the program will generate 3 files; an FLV file, an MP4 file, and a WEBM file in the root directory (although you can easily modify the program to remove this feature)
 
+# end result
+a nice static webm with the respective album's music in the background
